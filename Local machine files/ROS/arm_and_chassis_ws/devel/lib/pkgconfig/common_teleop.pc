@@ -1,8 +1,0 @@
-prefix=/home/pi/Documents/OSuRV_Project/ROS/arm_and_chassis_ws/devel
-
-Name: common_teleop
-Description: Description of common_teleop
-Version: 0.1.0
-Cflags: -I/usr/include/eigen3
-Libs: -L${prefix}/lib -lcommon_teleop
-Requires: rospy roscpp geometry_msgs tf ackermann_msgs nav_msgs
