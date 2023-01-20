@@ -1,0 +1,2 @@
+/home/pi/Documents/OSuRV_Project/SW/Driver/motor_ctrl/gpio.o /home/pi/Documents/OSuRV_Project/SW/Driver/motor_ctrl/hw_pwm.o /home/pi/Documents/OSuRV_Project/SW/Driver/motor_ctrl/sw_pwm.o /home/pi/Documents/OSuRV_Project/SW/Driver/motor_ctrl/pwm.o /home/pi/Documents/OSuRV_Project/SW/Driver/motor_ctrl/servo_fb.o /home/pi/Documents/OSuRV_Project/SW/Driver/motor_ctrl/bldc.o /home/pi/Documents/OSuRV_Project/SW/Driver/motor_ctrl/main.o
+
