@@ -1,0 +1,8 @@
+prefix=/home/pi/Documents/OSuRV_Project/ROS/arm_and_chassis_ws/devel
+
+Name: s4a_teleop
+Description: Description of s4a_teleop
+Version: 0.1.0
+Cflags: 
+Libs: -L${prefix}/lib -ls4a_teleop
+Requires: rospy roscpp geometry_msgs moveit_servo
